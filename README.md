@@ -1,11 +1,11 @@
 Download and include into your project
 
-Light Icons
+** Light Icons
 
-Sharp Icons
+** Sharp Icons
 
-Solid Icons
+** Solid Icons
 
-Animated Icons
+** Animated Icons
 
 (All for Free)
